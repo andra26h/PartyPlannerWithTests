@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PartyPlanner.Tests": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
